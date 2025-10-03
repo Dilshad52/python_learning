@@ -5,7 +5,7 @@ This repository contains topic-wise Python programs as I learn step by step.
 ## 📘 Topics Covered
 
 1. Variables & Data Types
-    - variables_project.py
+    - variables-project.py
    # Personal Greeting Generator
     A simple Python program that asks for your name, age, and favorite hobby, then prints a fun personalized message.
 
@@ -21,7 +21,7 @@ This repository contains topic-wise Python programs as I learn step by step.
      
 
 2. Operators
-    - operators.py
+    - operators-project.py
    
 
 # Python Calculator
