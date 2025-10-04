@@ -35,6 +35,35 @@ A simple command-line calculator implemented in Python, supporting basic arithme
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+3.Strings
+   -Strings-projects.py
+
+# 1. Word Counter
+
+A simple Python project that counts the number of words in a given sentence.
+
+## Description
+This project takes a sentence as input from the user, splits it into words, and displays the total number of words.
+
+
+# 2.Palindrome Checker
+
+A simple Python program to check whether a given word is a **palindrome** or not.
+
+## Description
+A **palindrome** is a word that reads the same backward as forward.  
+This program takes a word as input and checks if it is a palindrome using Python string slicing.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
 
    
   
